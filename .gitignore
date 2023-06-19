@@ -1,0 +1,126 @@
+# Unreal Engine 5 specific ignores
+
+# Compiled binary files
+**/Binaries/
+**/DerivedDataCache/
+
+# Intermediate files generated during compilation
+**/Intermediate/
+
+# Saved files and user-specific settings
+**/Saved/
+**/*.sln
+**/*.suo
+**/*.opensdf
+**/*.opendb
+**/*.sdf
+**/*.sln.DotSettings.user
+**/*.suo.user
+**/*.tlog/
+**/*.vshost.exe
+**/*.vshost.exe.config
+**/*.dll
+**/*.lib
+
+# Visual Studio generated files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Mac generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+.build/
+Library/
+bin/
+build/
+*.xcodeproj/
+*.xcworkspace/
+
+# Linux generated files
+*.o
+*.ko
+*.a
+*.so
+*.so.*
+*.x86_64
+*.x86
+*.bin
+*.log
+*.tmp
+*.pid
+*.vsdebug
+*.out
+*.swp
+*.swo
+*.swx
+*.swp
+*.swn
+*.bak
+*.patch
+
+# Windows generated files
+[Tt]humbs.db
+*.DIA
+*.pdb
+*.ilk
+*.sbr
+*.exp
+*.lib
+*.idb
+*.pdb
+*.ipch/
+*.obj
+*.pch
+*.res
+*.aps
+*.bsc
+*.ilk
+*.ncb
+*.opt
+*.plg
+*.sbr
+*.sdf
+*.tlb
+*.tlh
+*.tmp
+*.tvsconfig
+*.user
+*.pch
+*.pcc
+*.tlh
+*.tli
+*.tlb
+*.obj
+*.bsc
+*.ilk
+*.lib
+*.exp
+*.idb
+*.pdb
+*.sln.docstates
+
+# Ignore compiled shader files
+*.cso
+
+# Ignore log files
+*.log
+
+# Ignore user-specific configuration files
+Config/DefaultEditor.ini
+Config/DefaultGame.ini
+Config/DefaultInput.ini
+Config/DefaultEngine.ini
+Config/DefaultGameUserSettings.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Ignore sensitive or user-specific information
+Config/ServerConfig.json
+Config/ServerSettings.ini
+Config/*.pem
+Config/*.key
+Config/*.crt
