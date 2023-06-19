@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/MMORPG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/Crouch/Crouch_Idle.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/Crouch/Crouh_Walk.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/Motion/Idle_Break.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/Motion/Walk_Stop.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/Motion/VNKMotion.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/ABP_RPGCharacter.uasset",
+				"D:/Unreal/MMORPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/Crouch/CrouchBeldn.uasset",
+				"D:/Unreal/MMORPG/Content/Characters/RPGCharacter/Animation/Crouch/CrouchBlend.uasset",
+				"D:/Unreal/MMORPG/Content/ThirdPerson/Input/IA_Crouch.uasset",
+				"D:/Unreal/MMORPG/Content/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
